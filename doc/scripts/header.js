@@ -17,7 +17,8 @@ domReady(() => {
 	header.insertBefore(projectname, header.firstChild);
 
 	const testlink = document.querySelector('header > a[data-ice="testLink"]');
-	testlink.href = 'https://app.codecov.io/gh/string-data-structure/longest-prefix-suffix-array';
+	testlink.href =
+		'https://app.codecov.io/gh/string-data-structure/longest-prefix-suffix-array';
 	testlink.target = '_BLANK';
 
 	const searchBox = document.querySelector('.search-box');
