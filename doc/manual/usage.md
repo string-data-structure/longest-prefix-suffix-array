@@ -1,19 +1,8 @@
 # Usage
 
-> :warning: Depending on your environment, the code may require
-> `regeneratorRuntime` to be defined, for instance by importing
-> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
-
-First, require the polyfill at the entry point of your application
+Import the library where needed
 ```js
-require( 'regenerator-runtime/runtime' ) ;
+const {build} = require( '@string-data-structure/longest-prefix-suffix-array' ) ;
 // or
-import 'regenerator-runtime/runtime.js' ;
-```
-
-Then, import the library where needed
-```js
-const longestPrefixSuffixArray = require( '@string-data-structure/longest-prefix-suffix-array' ) ;
-// or
-import * as longestPrefixSuffixArray from '@string-data-structure/longest-prefix-suffix-array' ;
+import {build} from '@string-data-structure/longest-prefix-suffix-array' ;
 ```
