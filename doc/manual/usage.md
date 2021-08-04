@@ -2,7 +2,7 @@
 
 Import the library where needed
 ```js
-const {build} = require( '@string-data-structure/longest-prefix-suffix-array' ) ;
+const {build} = await import( '@string-data-structure/longest-prefix-suffix-array' ) ;
 // or
 import {build} from '@string-data-structure/longest-prefix-suffix-array' ;
 ```
