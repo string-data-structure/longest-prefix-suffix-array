@@ -1,4 +1,4 @@
-import {build} from '../../src/index.js';
+import {build} from '#module';
 
 const _lpsa = (p, pi, pj) => {
 	// eslint-disable-next-line unicorn/no-new-array

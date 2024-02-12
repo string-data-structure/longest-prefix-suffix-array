@@ -13,7 +13,7 @@ build(s, 0, s.length, t, 0);
 
 [![License](https://img.shields.io/github/license/string-data-structure/longest-prefix-suffix-array.svg)](https://raw.githubusercontent.com/string-data-structure/longest-prefix-suffix-array/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@string-data-structure/longest-prefix-suffix-array.svg)](https://www.npmjs.org/package/@string-data-structure/longest-prefix-suffix-array)
-[![Tests](https://img.shields.io/github/workflow/status/string-data-structure/longest-prefix-suffix-array/ci:cover?event=push&label=tests)](https://github.com/string-data-structure/longest-prefix-suffix-array/actions/workflows/ci:cover.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/workflow/status/string-data-structure/longest-prefix-suffix-array/ci?event=push&label=tests)](https://github.com/string-data-structure/longest-prefix-suffix-array/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/string-data-structure/longest-prefix-suffix-array.svg)](https://github.com/string-data-structure/longest-prefix-suffix-array/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/string-data-structure/longest-prefix-suffix-array.svg)](https://github.com/string-data-structure/longest-prefix-suffix-array/issues)
 [![Downloads](https://img.shields.io/npm/dm/@string-data-structure/longest-prefix-suffix-array.svg)](https://www.npmjs.org/package/@string-data-structure/longest-prefix-suffix-array)
